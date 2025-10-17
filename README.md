@@ -58,3 +58,7 @@
 Связаться со мной можно любым удобным способом:
 * по e-mail eoe66eoe@gmail.com
 * или написать в telegram https://t.me/eoe66eoe
+
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=eoe66&style=flat-square&color=blue" alt=""/>
+</div>
