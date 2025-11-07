@@ -14,25 +14,26 @@
     <td>• PostgreSQL</td>
     <td>• Python</td>
     <td>• Matplotlib</td>
-    <td>• Google Colab</td>
   </tr>
   <tr>
     <td>• ClickHouse</td>
     <td>• pandas</td>
     <td>• Seaborn</td>
-    <td>• Google Sheets</td>
   </tr>
   <tr>
     <td>• DBeaver</td>
     <td>• NumPy</td>
     <td>• DataLens</td>
-    <td>• Microsoft Excel</td>
   </tr>
   <tr>
     <td>• PySpark</td>
     <td>• SciPy</td>
     <td>• AirFlow</td>
-    <td>• CorelDRAW</td>
+  </tr>
+  <tr>
+    <td>• Google Colab</td>
+    <td>• Google Sheets</td>
+    <td>• Microsoft Excel</td>
   </tr>
 </table>
 
